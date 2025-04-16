@@ -1,4 +1,5 @@
 name: Pelican CI
+description: Test description
 
 on:
   push:
